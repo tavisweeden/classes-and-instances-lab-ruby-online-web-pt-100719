@@ -1,3 +1,5 @@
 class Dog
- fido = Dog.new 
+#Dog class attributes
 end  
+
+ fido = Dog.new 
